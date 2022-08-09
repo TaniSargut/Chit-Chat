@@ -20,7 +20,7 @@ class LoginViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        //it a test area
     }
     
     //MARK: - Functions
